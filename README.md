@@ -22,7 +22,6 @@ A computer vision project to detect and recognize number plates from vehicle ima
   - TensorFlow / PyTorch for deep learning
   - OpenCV for image processing
 - **OCR Engine**: Tesseract OCR
-- **Dataset**: Public datasets like Open Images Dataset or custom-labeled data
 
 ---
 
