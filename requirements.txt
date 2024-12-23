@@ -1,0 +1,11 @@
+torch
+opencv-python
+pillow
+numpy
+pytesseract
+yolov5
+torch 
+torchvision 
+pytesseract 
+opencv-python-headless
+
