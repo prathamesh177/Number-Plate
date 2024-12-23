@@ -23,9 +23,6 @@ A computer vision project to detect and recognize number plates from vehicle ima
   - OpenCV for image processing
 - **OCR Engine**: Tesseract OCR
 - **Dataset**: Public datasets like Open Images Dataset or custom-labeled data
-- **Deployment**:
-  - Flask / FastAPI for creating REST APIs
-  - Docker for containerization
 
 ---
 
@@ -39,8 +36,8 @@ A computer vision project to detect and recognize number plates from vehicle ima
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/number-plate-detection.git
-   cd number-plate-detection
+   git clone https://github.com/prathamesh177/Number-Plate
+   cd NumberPlate
    ```
 2. Install dependencies:
    ```bash
@@ -72,43 +69,8 @@ A computer vision project to detect and recognize number plates from vehicle ima
    Open your browser and navigate to `http://localhost:5000`.
 
 ### Using Pre-trained Model
-- Download the pre-trained weights from [Google Drive](https://drive.google.com/your-link) and place them in the `models/` directory.
+- Download the pre-trained weights from YOLOv5 or YOLOv6 and place them in the `models/` directory.
 
-### Testing with Images
-- Add your test images to the `test_images/` directory.
-- Run the detection script:
-   ```bash
-   python detect.py --image test_images/car.jpg
-   ```
-
----
-
-## Example Outputs
-
-### Input
-![Input](assets/car.jpg)
-
-### Output
-![Output](assets/output.jpg)
-
----
-
-## Folder Structure
-
-```plaintext
-number-plate-detection/
-│
-├── app.py               # Main application script
-├── detect.py            # Script for testing on images
-├── models/              # Contains pre-trained models
-├── static/              # Static assets (CSS, JS, images)
-├── templates/           # HTML templates for the web app
-├── test_images/         # Images for testing
-├── requirements.txt     # List of dependencies
-└── README.md            # Project documentation
-```
-
----
 
 ## Contributing
 
@@ -130,16 +92,8 @@ Contributions are welcome! Please follow the steps below:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Contact
 
-For any queries or feedback, please email us at [your-email@example.com].
+For any queries or feedback, please email us at walvekarprathamesh734@gmail.com.
 
 ```
-
-This README provides a professional overview of the project, ensuring it is informative and user-friendly for anyone browsing the repository.
