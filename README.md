@@ -93,6 +93,6 @@ Contributions are welcome! Please follow the steps below:
 
 ## Contact
 
-For any queries or feedback, please email us at walvekarprathamesh734@gmail.com.
+For any queries or feedback, please email me at walvekarprathamesh734@gmail.com.
 
 ```
