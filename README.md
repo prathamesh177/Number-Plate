@@ -68,7 +68,7 @@ A computer vision project to detect and recognize number plates from vehicle ima
    Open your browser and navigate to `http://localhost:5000`.
 
 ### Using Pre-trained Model
-- Download the pre-trained weights from YOLOv5 or YOLOv6 and place them in the `models/` directory.
+- Download the pre-trained weights from YOLOv5 or YOLOv8 and place them in the `models/` directory.
 
 
 ## Contributing
